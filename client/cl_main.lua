@@ -40,7 +40,7 @@ CreateThread(function()
                     TriggerEvent('qb-lift:callLift', k)
                   end,
                   icon = "fas fa-chevron-circle-up",
-                  label = "Elevator",
+                  label = "Aufzug",
                 },
             },
             distance = 2.5
